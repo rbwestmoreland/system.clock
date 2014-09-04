@@ -2,6 +2,9 @@ System.Clock
 ===
 A testable alternative to DateTime.Now
 
+[![Build status](https://ci.appveyor.com/api/projects/status/t6qewtc12ivm2btu)](https://ci.appveyor.com/project/rbwestmoreland/system-clock)
+
+
 Quick Start
 ---
     PM> Install-Package System.Clock
